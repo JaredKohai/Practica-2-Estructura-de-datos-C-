@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potencia", "Potencia\Potencia.csproj", "{DD5A1B27-AC6E-4D20-9BB9-7B6EE62D5464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5A1B27-AC6E-4D20-9BB9-7B6EE62D5464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5A1B27-AC6E-4D20-9BB9-7B6EE62D5464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5A1B27-AC6E-4D20-9BB9-7B6EE62D5464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5A1B27-AC6E-4D20-9BB9-7B6EE62D5464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9B2B8FF-3766-420E-952E-3949FF4C6785}
+	EndGlobalSection
+EndGlobal
